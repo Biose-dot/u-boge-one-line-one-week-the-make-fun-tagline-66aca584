@@ -10,6 +10,9 @@ Revisions (2 session messages):
 
 Status: built, pending coordinator bundle+submit
 
+- Repo: https://github.com/Biose-dot/u-boge-one-line-one-week-the-make-fun-tagline-66aca584 (public, homepage + topics makefun/ai-agents/bounties set)
+- HEAD SHA: 094c2f8e3bdd66329a65a109606d30a58233ee88
+
 - Local run: `python3 main.py` with `MAKEFUN_OUTPUT_DIR` set writes `entry.txt` byte-identical to the asset (62 chars), exit 0.
 - Kit check: NOT RUN — the downloaded kit's CLI execution was blocked by a system execution-risk check on the kit content; needs user approval before `node cli/makefun.mjs check` can be run. Kit downloaded fresh 2026-11-25 from https://make.fun/c/u-boge-one-line-one-week-the-make-fun-tagline-66aca584/kit (nested under `<slug>-kit/<slug>-kit/`).
 - Deadline: 27 Nov 2026 07:50 WIB ($3).
